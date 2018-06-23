@@ -1,4 +1,4 @@
-# The basics of machine learning in Python/tensorflow
+# The basics of machine learning in Python/tensorflow/RNN
 
 ## Authors
 
